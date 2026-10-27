@@ -1,0 +1,16 @@
+{
+  "name": "مرکز کنترل الکترو ویگور",
+  "short_name": "الکترو ویگور",
+  "description": "سیستم اجرایی ۱۵ استپی، مدیریت رشد و فاکتور فروش الکترو ویگور",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f7fb",
+  "theme_color": "#0756a5",
+  "icons": [
+    {"src":"icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
